@@ -19,7 +19,7 @@
         
         <!--start logo-->
         <div class="grid_2 logo">
-        	<img alt="" src="img/logo.png" /> <!--Include your logo with size 180px X 239 px-->
+        	<img alt="" src="<?php bloginfo('template_directory');?>img/logo.png" /> <!--Include your logo with size 180px X 239 px-->
         </div>
         <!--end logo-->
         
