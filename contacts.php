@@ -5,7 +5,7 @@
     
     <!--anchor back to top-->
     <a class="backtotop" href="#navigationmenu">
-    	<img alt="" src="img/anchors/backtotop.png" />
+    	<img alt="" src="wp-content/themes/SweetCupCake/img/anchors/backtotop.png" />
     </a>
     <!--end anchor back to top-->
     
@@ -36,13 +36,13 @@
         
         <!--little marker-->
         <div id="littlemarker" class="rotate">
-        	<img alt="" src="img/section-contact/littlemarker.png" />
+        	<img alt="" src="wp-content/themes/SweetCupCake/img/section-contact/littlemarker.png" />
         </div>
         <!--end little marker-->
         
         <!--little marker close: need for js effect-->
         <div id="littlemarkerclose" class="rotate">
-        	<img alt="" src="img/section-contact/littlemarkerclose.png" />
+        	<img alt="" src="wp-content/themes/SweetCupCake/img/section-contact/littlemarkerclose.png" />
         </div>
         <!--end little marker-->
         

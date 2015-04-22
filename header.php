@@ -17,8 +17,8 @@
     <link rel="stylesheet" href="/wp-content/themes/SweetCupCake/css/grid.css"> <!--grid-->
     <link rel="stylesheet" href="/wp-content/themes/SweetCupCake/css/responsive.css"> <!--grid-->
     <link rel="stylesheet" href="/wp-content/themes/SweetCupCake/css/isotope.css" /> <!--isotope-->
-    <link rel="stylesheet" type="/wp-content/themes/SweetCupCake/text/css" href="slide/css/fullwidth.css" media="screen" /> <!--revolution slider-->
-	<link rel="stylesheet" type="/wp-content/themes/SweetCupCake/text/css" href="slide/rs-plugin/css/settings.css" media="screen" /> <!--revolution slider-->
+    <link rel="stylesheet" type="text/css" href="/wp-content/themes/SweetCupCake/slide/css/fullwidth.css" media="screen" /> <!--revolution slider-->
+	<link rel="stylesheet" type="text/css" href="/wp-content/themes/SweetCupCake/slide/rs-plugin/css/settings.css" media="screen" /> <!--revolution slider-->
     <link rel="stylesheet" href="/wp-content/themes/SweetCupCake/css/prettyPhoto.css" media="screen" /> <!--prettyphoto-->
     <!--END CSS-->
     

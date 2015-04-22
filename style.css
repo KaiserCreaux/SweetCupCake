@@ -18,43 +18,43 @@ body{
 /*font face*/
 @font-face {
     font-family: 'oswaldbold';
-    src: url('../fonts/oswald/oswald-bold-webfont.eot');
-    src: url('../fonts/oswald/oswald-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/oswald/oswald-bold-webfont.woff') format('woff'),
-         url('../fonts/oswald/oswald-bold-webfont.ttf') format('truetype'),
-         url('../fonts/oswald/oswald-bold-webfont.svg#oswaldbold') format('svg');
+    src: url('fonts/oswald/oswald-bold-webfont.eot');
+    src: url('fonts/oswald/oswald-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/oswald/oswald-bold-webfont.woff') format('woff'),
+         url('fonts/oswald/oswald-bold-webfont.ttf') format('truetype'),
+         url('fonts/oswald/oswald-bold-webfont.svg#oswaldbold') format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
 @font-face {
     font-family: 'oswaldlight';
-    src: url('../fonts/oswald/oswald-light-webfont.eot');
-    src: url('../fonts/oswald/oswald-light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/oswald/oswald-light-webfont.woff') format('woff'),
-         url('../fonts/oswald/oswald-light-webfont.ttf') format('truetype'),
-         url('../fonts/oswald/oswald-light-webfont.svg#oswaldlight') format('svg');
+    src: url('fonts/oswald/oswald-light-webfont.eot');
+    src: url('fonts/oswald/oswald-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/oswald/oswald-light-webfont.woff') format('woff'),
+         url('fonts/oswald/oswald-light-webfont.ttf') format('truetype'),
+         url('fonts/oswald/oswald-light-webfont.svg#oswaldlight') format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
 @font-face {
     font-family: 'oswaldbook';
-    src: url('../fonts/oswald/oswald-regular-webfont.eot');
-    src: url('../fonts/oswald/oswald-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/oswald/oswald-regular-webfont.woff') format('woff'),
-         url('../fonts/oswald/oswald-regular-webfont.ttf') format('truetype'),
-         url('../fonts/oswald/oswald-regular-webfont.svg#oswaldbook') format('svg');
+    src: url('fonts/oswald/oswald-regular-webfont.eot');
+    src: url('fonts/oswald/oswald-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/oswald/oswald-regular-webfont.woff') format('woff'),
+         url('fonts/oswald/oswald-regular-webfont.ttf') format('truetype'),
+         url('fonts/oswald/oswald-regular-webfont.svg#oswaldbook') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'lobster_1.3regular';
-    src: url('../fonts/lobster/lobster_1.3-webfont.eot');
-    src: url('../fonts/lobster/lobster_1.3-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/lobster/lobster_1.3-webfont.woff') format('woff'),
-         url('../fonts/lobster/lobster_1.3-webfont.ttf') format('truetype'),
-         url('../fonts/lobster/lobster_1.3-webfont.svg#lobster_1.3regular') format('svg');
+    src: url('fonts/lobster/lobster_1.3-webfont.eot');
+    src: url('fonts/lobster/lobster_1.3-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/lobster/lobster_1.3-webfont.woff') format('woff'),
+         url('fonts/lobster/lobster_1.3-webfont.ttf') format('truetype'),
+         url('fonts/lobster/lobster_1.3-webfont.svg#lobster_1.3regular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -97,7 +97,7 @@ a img{
 #navigationmenu{
 	width:100%;
 	float:left;
-	background-image:url(../img/patterns/grey-bg.png);
+	background-image:url(img/patterns/grey-bg.png);
 	background-repeat:repeat;
 	color:#7d7d7d;	
 	font-family: 'lobster_1.3regular';	
@@ -199,12 +199,12 @@ nav a:hover{
 #services{
 	width:100%;
 	float:left;
-	background-image:url(../img/patterns/grey-bg.png);
+	background-image:url(img/patterns/grey-bg.png);
 	background-repeat:repeat;	
 }
 #services .titlesection{
 	text-shadow: 3px 3px 0 rgba(223, 223, 223, 0.9);
-	background-image:url(../img/divider/services.png);
+	background-image:url(img/divider/services.png);
 }
 #services p{
 	margin:10px 20px;
@@ -222,14 +222,14 @@ nav a:hover{
 #testimonials{
 	width:100%;
 	float:left;
-	background-image:url(../img/patterns/pink-bg.png);
+	background-image:url(img/patterns/pink-bg.png);
 	background-repeat:repeat;
 	background-attachment:fixed;
 }
 #darkfilter{
 	width:100%;
 	float:left;
-	background-image:url(../img/section-testimonials/darkfilter.png);
+	background-image:url(img/section-testimonials/darkfilter.png);
 	background-repeat:repeat-y;
 	background-position:center;
 }
@@ -290,12 +290,12 @@ nav a:hover{
 #sectionportfolio{
 	width:100%;
 	float:left;
-	background-image:url(../img/patterns/grey-bg.png);
+	background-image:url(img/patterns/grey-bg.png);
 	background-repeat:repeat;		
 }
 #sectionportfolio .titlesection{
 	text-shadow: 3px 3px 0 rgba(223, 223, 223, 0.9);
-	background-image:url(../img/divider/portfolio.png);
+	background-image:url(img/divider/portfolio.png);
 }
 #options{
 	margin:10px 0px;
@@ -353,7 +353,7 @@ nav a:hover{
 	float:left;
 	width:100%;
 	height:5px;
-	background-image:url(../img/section-works/bgworksbottom.jpg);
+	background-image:url(img/section-works/bgworksbottom.jpg);
 	background-repeat:repeat;
 	margin-top:5px;
 }
@@ -404,14 +404,14 @@ nav a:hover{
 #sectionprices{
 	width:100%;
 	float:left;
-	background-image:url(../img/patterns/green-bg.png);
+	background-image:url(img/patterns/green-bg.png);
 	background-repeat:repeat;
 	background-attachment:fixed;
 	overflow:hidden;		
 }
 #sectionprices .titlesection{
 	text-shadow: 3px 3px 0 rgba(111, 176, 167, 0.9);
-	background-image:url(../img/divider/prices.png);
+	background-image:url(img/divider/prices.png);
 }
 #sectionprices .titlesection h1{
 	color:#FFF;
@@ -419,7 +419,7 @@ nav a:hover{
 .price{
 	width:270px;;
 	float:left;
-	background-image:url(../img/section-prices/bg.png);
+	background-image:url(img/section-prices/bg.png);
 	background-repeat:repeat;
 	border-top:5px solid #fff;
 	border-left:5px solid #fff;
@@ -444,7 +444,7 @@ nav a:hover{
 	width:210px;
 	border-bottom:1px solid #d4d7d3;
 	color:#908f8f;
-	background-image:url(../img/section-prices/star.png);
+	background-image:url(img/section-prices/star.png);
 	background-repeat:no-repeat;
 	background-position:0px 12px;
 }
@@ -457,7 +457,7 @@ nav a:hover{
 	margin-top:20px;	
 }
 .ribbon{
-	background-image:url(../img/section-prices/bgribbon.jpg);
+	background-image:url(img/section-prices/bgribbon.jpg);
 	background-repeat:repeat;
 	position:absolute;
 	width:280px;
@@ -483,7 +483,7 @@ nav a:hover{
 	float:left;
 	margin-bottom:20px;
 	height:50px;
-	background-image:url(../img/section-prices/triangle.png);
+	background-image:url(img/section-prices/triangle.png);
 }
 /*end section prices*/
 
@@ -491,12 +491,12 @@ nav a:hover{
 #sectionteam{
 	width:100%;
 	float:left;
-	background-image:url(../img/patterns/grey-bg.png);
+	background-image:url(img/patterns/grey-bg.png);
 	background-repeat:repeat;		
 }
 #sectionteam .titlesection{
 	text-shadow: 3px 3px 0 rgba(223, 223, 223, 0.9);
-	background-image:url(../img/divider/team.png);
+	background-image:url(img/divider/team.png);
 }
 .team{
 	background-color:#f5f5f5;
@@ -525,7 +525,7 @@ nav a:hover{
 	width:278px;
 	height:5px;
 	float:left;
-	background-image:url(../img/section-team/bordertopteam.jpg);
+	background-image:url(img/section-team/bordertopteam.jpg);
 	background-repeat:repeat-x;	
 }
 .socialteam{
@@ -533,7 +533,7 @@ nav a:hover{
 	height:81px;
 	float:left;
 	margin-bottom:20px;
-	background-image:url(../img/section-team/imgbottomteam.png);
+	background-image:url(img/section-team/imgbottomteam.png);
 	text-align:center;	
 }
 .socialteam img{
@@ -545,13 +545,13 @@ nav a:hover{
 #sectionskills{
 	width:100%;
 	float:left;
-	background-image:url(../img/patterns/pink-bg.png);
+	background-image:url(img/patterns/pink-bg.png);
 	background-repeat:repeat;
 	background-attachment:fixed;		
 }
 #sectionskills .titlesection{
 	text-shadow: 3px 3px 0 rgba(190, 115, 135, 0.9);
-	background-image:url(../img/divider/skills.png);
+	background-image:url(img/divider/skills.png);
 }
 #sectionskills .titlesection h1{
 	color:#FFF;
@@ -570,7 +570,7 @@ nav a:hover{
 	float:left;	
 }
 .skilldescription #operator{
-	background-image:url(../img/section-skills/operator.png);
+	background-image:url(img/section-skills/operator.png);
     height: 150px;
     margin-left: 42px;
     margin-top: 116px;
@@ -602,14 +602,14 @@ nav a:hover{
 .progresbar div{
 	width:380px;
 	float:left;
-	background-image:url(../img/section-skills/bgprogresbar.jpg);
+	background-image:url(img/section-skills/bgprogresbar.jpg);
 	background-repeat:repeat;	
 }
 .progresbar div span{
 	height:20px;
 	margin:5px;
 	float:left;
-	background-image:url(../img/section-skills/progresbar.jpg);
+	background-image:url(img/section-skills/progresbar.jpg);
 	background-repeat:repeat;
 }
 .onebar{
@@ -634,7 +634,7 @@ nav a:hover{
 	color:#7d7d7d !important;
 	font-size:13px;
 	font-family: 'lobster_1.3regular';
-	background-image:url(../img/section-skills/bgnumberbar.png);
+	background-image:url(img/section-skills/bgnumberbar.png);
 	background-position:center;
 	background-repeat:no-repeat;
 }
@@ -644,7 +644,7 @@ nav a:hover{
 #oursocial{
 	width:100%;
 	float:left;	
-	background-image:url(../img/patterns/grey-bg.png);
+	background-image:url(img/patterns/grey-bg.png);
 	background-repeat:repeat;
 }
 #oursocial img{
@@ -652,7 +652,7 @@ nav a:hover{
 }
 #oursocial .titlesection{
 	text-shadow: 3px 3px 0 rgba(223, 223, 223, 0.9);
-	background-image:url(../img/divider/oursocial.png);
+	background-image:url(img/divider/oursocial.png);
 }
 /*end oursocial*/
 
@@ -682,7 +682,7 @@ nav a:hover{
 	width:220px;
 	height:320px;
 	margin:auto;
-	background-image:url(../img/section-contact/bigmarker.png);
+	background-image:url(img/section-contact/bigmarker.png);
 	text-align:center;
 	padding:80px;		
 }
@@ -708,7 +708,7 @@ nav a:hover{
 	float:left;
 	margin-bottom:10px;
 	padding-bottom:20px;
-	background-image:url(../img/section-contact/h2arrow.png);
+	background-image:url(img/section-contact/h2arrow.png);
 	background-repeat:no-repeat;
 	background-position:center bottom;
 	width:100%;	
@@ -738,19 +738,19 @@ nav a:hover{
 	color:#a9a9a9;
 }
 .iconhome{
-	background-image:url(../img/section-contact/icon1.png);
+	background-image:url(img/section-contact/icon1.png);
 	background-position:20px 12px;	
 }
 .iconphone{
-	background-image:url(../img/section-contact/icon2.png);
+	background-image:url(img/section-contact/icon2.png);
 	background-position:20px 12px;
 }
 .iconfax{
-	background-image:url(../img/section-contact/icon3.png);
+	background-image:url(img/section-contact/icon3.png);
 	background-position:20px 12px;
 }
 .iconmail{
-	background-image:url(../img/section-contact/icon4.png);
+	background-image:url(img/section-contact/icon4.png);
 	background-position:20px 12px;
 }
 #littlemarker{
@@ -806,7 +806,7 @@ nav a:hover{
 	width:100%;
 	float:left;
 	height:15px;
-	background-image:url(../img/patterns/topwaves.png);
+	background-image:url(img/patterns/topwaves.png);
 	background-repeat:repeat-x;
 	position:absolute;
 	margin-top:0px;
@@ -815,7 +815,7 @@ nav a:hover{
 .bottomwaves{
 	width:100%;
 	height:15px;
-	background-image:url(../img/patterns/bottomwaves.png);
+	background-image:url(img/patterns/bottomwaves.png);
 	background-repeat:repeat-x;
 	position:absolute;
 	z-index:25;

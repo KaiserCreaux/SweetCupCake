@@ -16,7 +16,7 @@
         
         <!--Service-->
         <div class="grid_4">
-        	<img class="rotate" alt="" src="img/section-services/service1.png" /> <!-- You can find the service icons in vector format in psd attachment.-->
+        	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-services/service1.png" /> <!-- You can find the service icons in vector format in psd attachment.-->
             <h2>Cake Design</h2> <!--you can edit-->
             <p>Lorem ipsum dolor sit amet consect etur adipiscing elit. Curabitur sempo turpis quis est scelerisque sit amete.</p> <!--you can edit-->
         </div>
@@ -24,7 +24,7 @@
         
         <!--Service-->
         <div class="grid_4">
-        	<img class="rotate" alt="" src="img/section-services/service2.png" />
+        	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-services/service2.png" />
             <h2>Best Cupcakes</h2>
             <p>Lorem ipsum dolor sit amet consect etur adipiscing elit. Curabitur sempo turpis quis est scelerisque sit amete.</p>
         </div>
@@ -32,7 +32,7 @@
         
         <!--Service-->
         <div class="grid_4">
-        	<img class="rotate" alt="" src="img/section-services/service3.png" />
+        	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-services/service3.png" />
             <h2>Desserts</h2>
             <p>Lorem ipsum dolor sit amet consect etur adipiscing elit. Curabitur sempo turpis quis est scelerisque sit amete.</p>
         </div>
@@ -40,7 +40,7 @@
           
         <!--Service-->
         <div class="grid_4">
-        	<img class="rotate" alt="" src="img/section-services/service4.png" />
+        	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-services/service4.png" />
             <h2>Menu Planners</h2>
             <p>Lorem ipsum dolor sit amet consect etur adipiscing elit. Curabitur sempo turpis quis est scelerisque sit amete.</p>
         </div>
@@ -48,7 +48,7 @@
         
         <!--Service-->
         <div class="grid_4">
-        	<img class="rotate" alt="" src="img/section-services/service5.png" />
+        	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-services/service5.png" />
             <h2>Awesome Recipes</h2>
             <p>Lorem ipsum dolor sit amet consect etur adipiscing elit. Curabitur sempo turpis quis est scelerisque sit amete.</p>
         </div>
@@ -56,7 +56,7 @@
         
         <!--Service-->
         <div class="grid_4">
-        	<img class="rotate" alt="" src="img/section-services/service6.png" />
+        	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-services/service6.png" />
             <h2>Home Delivery</h2>
             <p>Lorem ipsum dolor sit amet consect etur adipiscing elit. Curabitur sempo turpis quis est scelerisque sit amete.</p>
         </div>

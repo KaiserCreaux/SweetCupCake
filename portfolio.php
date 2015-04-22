@@ -4,8 +4,8 @@
     <!--start anchors-->
     <div class="anchors">
     	<div class="contanchors">
-            <a href="#testimonials"><img class="anchortop" alt="" src="img/anchors/topportfolio.png" /></a>
-            <a href="#sectionprices"><img class="anchorbottom" alt="" src="img/anchors/bottomportfolio.png" /></a>
+            <a href="#testimonials"><img class="anchortop" alt="" src="wp-content/themes/SweetCupCake/img/anchors/topportfolio.png" /></a>
+            <a href="#sectionprices"><img class="anchorbottom" alt="" src="wp-content/themes/SweetCupCake/img/anchors/bottomportfolio.png" /></a>
         </div>
     </div>
     <!--end anchors-->
@@ -38,11 +38,11 @@
             
             <!--element-->
             <div class="element blue" data-category="blue">
-            	<a data-rel="prettyPhoto[]" href="img/section-works/imgworks1.jpg">
-                	<img alt="" class="imgwork" src="img/section-works/imgworks1.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks1.jpg">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks1.jpg" />
                 </a>
                 <div class="worksarrow">
-                	<img alt="" src="img/section-works/arrow.png" />
+                	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
                 <h2>Lorem Ipsum Dolor Sit</h2>
                 <p>Lorem ipsum dolor</p>
@@ -52,11 +52,11 @@
             
             <!--element-->
             <div class="element blue" data-category="blue">
-            	<a data-rel="prettyPhoto[]" href="img/section-works/imgworks2.jpg">
-                	<img alt="" class="imgwork" src="img/section-works/imgworks2.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks2.jpg">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks2.jpg" />
                 </a>
                 <div class="worksarrow">
-                	<img alt="" src="img/section-works/arrow.png" />
+                	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
                 <h2>Lorem Ipsum Dolor Sit</h2>
                 <p>Lorem ipsum dolor</p>
@@ -66,11 +66,11 @@
             
             <!--element-->
             <div class="element yellow" data-category="yellow">
-            	<a data-rel="prettyPhoto[]" href="img/section-works/imgworks3.jpg">
-                	<img alt="" class="imgwork" src="img/section-works/imgworks3.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks3.jpg">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks3.jpg" />
                	</a>
                 <div class="worksarrow">
-                	<img alt="" src="img/section-works/arrow.png" />
+                	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
                 <h2>Lorem Ipsum Dolor Sit</h2>
                 <p>Lorem ipsum dolor</p>
@@ -80,11 +80,11 @@
             
             <!--element-->
             <div class="element yellow" data-category="yellow">
-            	<a data-rel="prettyPhoto[]" href="img/section-works/imgworks4.jpg">
-                	<img alt="" class="imgwork" src="img/section-works/imgworks4.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks4.jpg">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks4.jpg" />
                	</a>
                 <div class="worksarrow">
-                	<img alt="" src="img/section-works/arrow.png" />
+                	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
                 <h2>Lorem Ipsum Dolor Sit</h2>
                 <p>Lorem ipsum dolor</p>
@@ -94,11 +94,11 @@
             
             <!--element-->
             <div class="element green" data-category="green">
-            	<a data-rel="prettyPhoto[]" href="img/section-works/imgworks5.jpg">
-                	<img alt="" class="imgwork" src="img/section-works/imgworks5.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks5.jpg">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks5.jpg" />
                 </a>
                 <div class="worksarrow">
-                	<img alt="" src="img/section-works/arrow.png" />
+                	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
                 <h2>Lorem Ipsum Dolor Sit</h2>
                 <p>Lorem ipsum dolor</p>
@@ -108,11 +108,11 @@
             
             <!--element-->
             <div class="element green" data-category="green">
-            	<a data-rel="prettyPhoto[]" href="img/section-works/imgworks6.jpg">
-                	<img alt="" class="imgwork" src="img/section-works/imgworks6.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks6.jpg">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks6.jpg" />
                 </a>
                 <div class="worksarrow">
-                	<img alt="" src="img/section-works/arrow.png" />
+                	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
                 <h2>Lorem Ipsum Dolor Sit</h2>
                 <p>Lorem ipsum dolor</p>
@@ -122,11 +122,11 @@
             
             <!--element-->
             <div class="element blue" data-category="blue">
-            	<a data-rel="prettyPhoto[]" href="img/section-works/imgworks7.jpg">
-                	<img alt="" class="imgwork" src="img/section-works/imgworks7.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks7.jpg">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks7.jpg" />
                 </a>
                 <div class="worksarrow">
-                	<img alt="" src="img/section-works/arrow.png" />
+                	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
                 <h2>Lorem Ipsum Dolor Sit</h2>
                 <p>Lorem ipsum dolor</p>
@@ -136,11 +136,11 @@
             
             <!--element-->
             <div class="element yellow" data-category="yellow">
-            	<a data-rel="prettyPhoto[]" href="img/section-works/imgworks8.jpg">
-                	<img alt="" class="imgwork" src="img/section-works/imgworks8.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks8.jpg">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks8.jpg" />
                 </a>
                 <div class="worksarrow">
-                	<img alt="" src="img/section-works/arrow.png" />
+                	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
                 <h2>Lorem Ipsum Dolor Sit</h2>
                 <p>Lorem ipsum dolor</p>

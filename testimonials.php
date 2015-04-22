@@ -4,8 +4,8 @@
     <!--start anchors-->
     <div class="anchors">
     	<div class="contanchors">
-            <a href="#services"><img class="anchortop" alt="" src="img/anchors/toptestimonials.png" /></a>
-            <a href="#sectionportfolio"><img class="anchorbottom" alt="" src="img/anchors/bottomtestimonials.png" /></a>
+            <a href="#services"><img class="anchortop" alt="" src="wp-content/themes/SweetCupCake/img/anchors/toptestimonials.png" /></a>
+            <a href="#sectionportfolio"><img class="anchorbottom" alt="" src="wp-content/themes/SweetCupCake/img/anchors/bottomtestimonials.png" /></a>
         </div>
     </div>
     <!--end anchors-->
@@ -18,7 +18,7 @@
         
             <!--top quote-->
             <div class="grid_12 topquote">
-                <img alt="" src="img/section-testimonials/topquote.png" />
+                <img alt="" src="wp-content/themes/SweetCupCake/img/section-testimonials/topquote.png" />
             </div>	
             <!--top quote-->
             
@@ -38,7 +38,7 @@
             
             <!--bottom quote-->
             <div class="grid_12 bottomquote">
-                <img alt="" src="img/section-testimonials/bottomquote.png" />
+                <img alt="" src="wp-content/themes/SweetCupCake/img/section-testimonials/bottomquote.png" />
             </div>
             <!--bottom quote-->
         

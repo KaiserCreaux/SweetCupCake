@@ -1,6 +1,6 @@
 <?php include "header.php"; ?>
 <?php include "navigation.php"; ?>
-<?php include "slide/slide.php"; ?>
+<?php include "slide.php"; ?>
 <?php include "services.php"; ?>
 <?php include "testimonials.php"; ?>
 <?php include "portfolio.php"; ?>

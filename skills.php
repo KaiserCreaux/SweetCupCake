@@ -4,8 +4,8 @@
  	<!--start anchors-->
     <div class="anchors">
     	<div class="contanchors">
-            <a href="#sectionteam"><img class="anchortop" alt="" src="img/anchors/topskills.png" /></a>
-            <a href="#oursocial"><img class="anchorbottom" alt="" src="img/anchors/bottomskills.png" /></a>
+            <a href="#sectionteam"><img class="anchortop" alt="" src="wp-content/themes/SweetCupCake/img/anchors/topskills.png" /></a>
+            <a href="#oursocial"><img class="anchorbottom" alt="" src="wp-content/themes/SweetCupCake/img/anchors/bottomskills.png" /></a>
         </div>
     </div>
     <!--end anchors-->
@@ -25,7 +25,7 @@
             <!--skill-->
             <div class="skilldescription">
             	<div id="operator"></div>
-            	<img alt="" src="img/section-skills/icon1.png" /> <!--you can edit the image, open the psd file for the vector image format-->
+            	<img alt="" src="wp-content/themes/SweetCupCake/img/section-skills/icon1.png" /> <!--you can edit the image, open the psd file for the vector image format-->
             	<h2>Creative Cake Design</h2> <!--you can edit-->
             	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ante quam, volutpat eu gravida sit amet, vestibulum sed turpis. Etiam vel enim vel leo dignissim</p> <!--you can edit-->
             </div>
@@ -33,7 +33,7 @@
             
             <!--skill-->
             <div class="skilldescription">
-            	<img alt="" src="img/section-skills/icon2.png" /> <!--you can edit the image, open the psd file for the vector image format-->
+            	<img alt="" src="wp-content/themes/SweetCupCake/img/section-skills/icon2.png" /> <!--you can edit the image, open the psd file for the vector image format-->
                 <h2>Lorem Ipsum Dolor Sit</h2> <!--you can edit-->
             	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ante quam, volutpat eu gravida sit amet, vestibulum sed turpis. Etiam vel enim vel leo dignissim</p> <!--you can edit-->
             </div>
@@ -41,7 +41,7 @@
             
             <!--skill-->
             <div class="skilldescription">
-            	<img alt="" src="img/section-skills/icon3.png" /> <!--you can edit the image, open the psd file for the vector image format-->
+            	<img alt="" src="wp-content/themes/SweetCupCake/img/section-skills/icon3.png" /> <!--you can edit the image, open the psd file for the vector image format-->
                 <h2>Creative Cake Design</h2> <!--you can edit-->
             	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ante quam, volutpat eu gravida sit amet, vestibulum sed turpis. Etiam vel enim vel leo dignissim</p> <!--you can edit-->
             </div>
@@ -52,7 +52,7 @@
         
         <!--start clip-->
         <div class="grid_2 clip">
-        	<img class="opacity" alt="" src="img/section-skills/clip.png" />
+        	<img class="opacity" alt="" src="wp-content/themes/SweetCupCake/img/section-skills/clip.png" />
         </div>
         <!--end clip-->
         
