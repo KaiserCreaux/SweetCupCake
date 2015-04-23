@@ -1,3 +1,4 @@
+/*
 window.google = window.google || {};
 google.maps = google.maps || {};
 (function() {
@@ -19,3 +20,4 @@ google.maps = google.maps || {};
   var loadScriptTime = (new Date).getTime();
   getScript("https://maps.gstatic.com/intl/it_it/mapfiles/api-3/13/4/main.js");
 })();
+*/

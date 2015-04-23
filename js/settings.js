@@ -121,6 +121,7 @@ SWEET.gallery = function(){
 
 
 //map
+
 SWEET.map = function(){
 	
 
@@ -204,6 +205,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 	
 	
 }
+
 //end map
 
 
