@@ -15,86 +15,41 @@
     
     	<!--start titlesection-->
         <div class="grid_12 titlesection">
-        	<h1>Our Team</h1>
+        	<h1>Contact Us</h1>
         </div>
         <!--end title section-->
-        
-        <!--start team-->
-        <div class="grid_3">
-        	<div class="avatar">
-            	<img class="opacity" alt="" src="wp-content/themes/SweetCupCake/img/section-team/team1.png" /> <!--you can edit the image, open the psd file for copy the rounded filter-->
-            </div>
-            <div class="team">
-            	<div class="bordertopteam"></div>
-            	<h2>Jane Mc Doe</h2> <!--you can edit-->
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed iaculis tortor sit amet quam malesuada porta. Duis lorem leo, commodo et molestie sit amet.</p> <!--you can edit-->
-            </div>
-            <div class="socialteam">
-            	<a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/twittericon.png" /></a> <!--you can edit image and insert the link-->
-                <a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/instagramicon.png" /></a> <!--you can edit image and insert the link-->
-                <a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/facebookicon.png" /></a> <!--you can edit image and insert the link-->
-                <a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/pinteresticon.png" /></a> <!--you can edit image and insert the link-->
-            </div>
-        </div>
-        <!--end team-->
-        
-        <!--start team-->
-        <div class="grid_3">
-        	<div class="avatar">
-            	<img class="opacity" alt="" src="wp-content/themes/SweetCupCake/img/section-team/team2.png" />
-            </div>
-            <div class="team">
-            	<div class="bordertopteam"></div>
-            	<h2>Mark Spitch</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed iaculis tortor sit amet quam malesuada porta. Duis lorem leo, commodo et molestie sit amet.</p>
-            </div>
-            <div class="socialteam">
-            	<a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/twittericon.png" /></a>
-                <a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/instagramicon.png" /></a>
-                <a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/facebookicon.png" /></a>
-                <a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/pinteresticon.png" /></a>
-            </div>
-        </div>
-        <!--end team-->
-        
-        <!--start team-->
-        <div class="grid_3">
-        	<div class="avatar">
-            	<img class="opacity" alt="" src="wp-content/themes/SweetCupCake/img/section-team/team3.png" />
-            </div>
-            <div class="team">
-            	<div class="bordertopteam"></div>
-            	<h2>Juliette Light</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed iaculis tortor sit amet quam malesuada porta. Duis lorem leo, commodo et molestie sit amet.</p>
-            </div>
-            <div class="socialteam">
-            	<a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/twittericon.png" /></a>
-                <a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/instagramicon.png" /></a>
-                <a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/facebookicon.png" /></a>
-                <a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/pinteresticon.png" /></a>
-            </div>
-        </div>
-        <!--end team-->
-        
-        <!--start team-->
-        <div class="grid_3">
-        	<div class="avatar">
-            	<img class="opacity" alt="" src="wp-content/themes/SweetCupCake/img/section-team/team4.png" />
-            </div>
-            <div class="team">
-            	<div class="bordertopteam"></div>
-            	<h2>Nick Hope</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed iaculis tortor sit amet quam malesuada porta. Duis lorem leo, commodo et molestie sit amet.</p>
-            </div>
-            <div class="socialteam">
-            	<a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/twittericon.png" /></a>
-                <a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/instagramicon.png" /></a>
-                <a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/facebookicon.png" /></a>
-                <a href="#"><img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-team/pinteresticon.png" /></a>
-            </div>
-        </div>
-    	<!--end team-->
-        
+                <div class="grid_3"></div> <!--spacer-->
+		<div class="grid_6">
+			<div id="form-main">
+			  <div id="form-div">
+				<form class="form" id="form1">
+				  
+				  <p class="fNameForm">
+					<input name="fName" type="text" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="First Name" id="fNameForm" />
+				  </p>
+				  <p class="lNameForm">
+					<input name="lName" type="text" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Last Name" id="lNameForm" />
+				  </p>			  
+				  <p class="emailForm">
+					<input name="email" type="text" class="validate[required,custom[email]] feedback-input" id="emailForm" placeholder="Email" />
+				  </p>
+				  <p class="zipForm">
+					<input name="zip" type="text" class="validate[required,custom[zip]] feedback-input" id="zipForm" placeholder="Zip Code" />
+				  </p>				  
+				  <p class="textForm">
+					<textarea name="text" class="validate[required,length[6,300]] feedback-input" id="commentForm" placeholder="More Details"></textarea>
+				  </p>
+				  
+				  
+				  <div class="submit">
+					<input type="submit" value="SEND" id="button-blue"/>
+					<div class="ease"></div>
+				  </div>
+				</form>
+			  </div>
+			</div>
+		</div>	
+        <div class="grid_3"></div> <!--spacer-->       
         
     </div>
     <!--end container-->   

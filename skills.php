@@ -15,94 +15,54 @@
     
     	<!--start titlesection-->
         <div class="grid_12 titlesection">
-        	<h1>Our Skills</h1>
+        	<h1>Cupcake Menu</h1>
         </div>
         <!--end title section-->
         
-        <!--start left content-->
-        <div class="grid_5">
-        	
-            <!--skill-->
+        <!--$18 per dozen cakes-->
+        <div class="grid_4">
             <div class="skilldescription">
-            	<div id="operator"></div>
-            	<img alt="" src="wp-content/themes/SweetCupCake/img/section-skills/icon1.png" /> <!--you can edit the image, open the psd file for the vector image format-->
-            	<h2>Creative Cake Design</h2> <!--you can edit-->
-            	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ante quam, volutpat eu gravida sit amet, vestibulum sed turpis. Etiam vel enim vel leo dignissim</p> <!--you can edit-->
+            	<img alt="" src="wp-content/themes/SweetCupCake/img/section-skills/price18.png" /> <!--you can edit the image, open the psd file for the vector image format-->
+            	<p><span class="flavorName">I Do, Declare!</span>  red velvet cake topped with vanilla cream cheese buttercream</p>
+            	<p><span class="flavorName">Margarita</span>  vanilla cake topped with liquor-flavored simple syrup topped with lime-tinted and flavored buttercream</p>
+            	<p><span class="flavorName">Pink Lemonade</span>  lemon flavored vanilla cake topped with pink lemonade buttercream topped with candied lemon rind</p>
+            	<p><span class="flavorName">Plain and Simple</span>  vanilla cake topped with vanilla or chocolate butterbream</p>
+            	<p><span class="flavorName">Signature Cupcake</span>  pink velvet cake topped with cream cheese buttercream</p>
+            	<p><span class="flavorName">The Penguin Suit</span>  chocolate cake with vanilla buttercream</p>
             </div>
-            <!--skill-->
-            
-            <!--skill-->
-            <div class="skilldescription">
-            	<img alt="" src="wp-content/themes/SweetCupCake/img/section-skills/icon2.png" /> <!--you can edit the image, open the psd file for the vector image format-->
-                <h2>Lorem Ipsum Dolor Sit</h2> <!--you can edit-->
-            	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ante quam, volutpat eu gravida sit amet, vestibulum sed turpis. Etiam vel enim vel leo dignissim</p> <!--you can edit-->
-            </div>
-            <!--skill-->
-            
-            <!--skill-->
-            <div class="skilldescription">
-            	<img alt="" src="wp-content/themes/SweetCupCake/img/section-skills/icon3.png" /> <!--you can edit the image, open the psd file for the vector image format-->
-                <h2>Creative Cake Design</h2> <!--you can edit-->
-            	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ante quam, volutpat eu gravida sit amet, vestibulum sed turpis. Etiam vel enim vel leo dignissim</p> <!--you can edit-->
-            </div>
-            <!--skill-->
-            
         </div>
-        <!--end left content-->
-        
-        <!--start clip-->
+        <div class="grid_4">
+        <!--$20 per dozen cakes-->
+            <div class="skilldescription">
+            	<img alt="" src="wp-content/themes/SweetCupCake/img/section-skills/price20.png" /> <!--you can edit the image, open the psd file for the vector image format-->
+            	<p><span class="flavorName">Cookies & Cream</span>  vanilla cake with crushed chocolate cookies topped with chocolate cookie buttercream</p>
+            	<p><span class="flavorName">Campfire</span>  chocolate cake with a graham cracker base topped with marshmallow Italian buttercream</p>
+            	<p><span class="flavorName">James Brown</span>  banana cake with a peanut butter buttercream, topped with chocolate ganache and carmelized banana chips</p>
+            	<p><span class="flavorName">Pass the Milk, Please</span>  double fudge cake with chocolate peanut butter cups topped with chocolate buttercream</p>
+            	<p><span class="flavorName">Tiramisu</span>  vanilla cake soaked in espresso flavored simple-syrup topped with coffee-flavored syrup cream cheese buttercream</p>
+            	<p><span class="flavorName">Troop # 336</span>  chocolate cake with mint-chocolate cookie base topped with green-tinted mint buttercream</p>
+            </div>
+		</div>
+        <!--$22 per dozen cakes-->
+        <div class="grid_4">
+            <div class="skilldescription">
+            	<img alt="" src="wp-content/themes/SweetCupCake/img/section-skills/price22.png" /> <!--you can edit the image, open the psd file for the vector image format-->
+            	<p><span class="flavorName">Bahama Mama</span>  vanilla cake topped with pineapple simple syrup, pink-tinted cream cheese frosting and sweet shredded coconut - mini umbrella required!</p>
+            	<p><span class="flavorName">Chocolate Chip Cookie Dough</span>  brown sugar cake topped with cookie dough buttercream</p>  
+            	<p><span class="flavorName">Death by Chocolate</span>  chocolate cake topped with chocolate Italian buttercream and chocolate dipped strawberry</p>
+            	<p><span class="flavorName">Leave Mein Alone!</span>  German chocolate cake with coconut-pecan topping drizzled with chocolate ganache</p>
+            	<p><span class="flavorName">Snickerdoodle</span>  cinnamon sugar vanilla cake with cinnamon buttercream topped with a snickerdoodle cookie</p>
+            	<p><span class="flavorName">Turtle</span> chocolate cake with a chocolate buttercream topped with chopped pecans and fudge and caramel drizzle</p>
+            </div>
+		</div>
+        <!--start clip
         <div class="grid_2 clip">
         	<img class="opacity" alt="" src="wp-content/themes/SweetCupCake/img/section-skills/clip.png" />
         </div>
-        <!--end clip-->
-        
-        <div class="grid_5">
-        	
-            <div id="allprogresbar">
-            	
-                <!--progresbar-->
-                <div class="progresbar">
-                	<p>LOREM IPSUM DOLOR SIT</p> <!--you can edit-->
-                    <p class="numberbar">60</p> <!--you can edit-->
-                	<div><span class="onebar"></span></div> <!--edit the respective css class in style.css -->
-                </div>
-                <!--progresbar-->
-                
-                <!--progresbar-->
-                <div class="progresbar">
-                	<p>LOREM IPSUM DOLOR SIT</p> <!--you can edit-->
-                    <p class="numberbar">83</p> <!--you can edit-->
-                	<div><span class="secondbar"></span></div> <!--edit the respective css class in style.css -->
-                </div>
-                <!--progresbar-->
-                
-                <!--progresbar-->
-                <div class="progresbar">
-                	<p>LOREM IPSUM DOLOR SIT</p> <!--you can edit-->
-                    <p class="numberbar">40</p> <!--you can edit-->
-                	<div><span class="thirdbar"></span></div> <!--edit the respective css class in style.css -->
-                </div>
-                <!--progresbar-->
-                
-                <!--progresbar-->
-                <div class="progresbar">
-                	<p>LOREM IPSUM DOLOR SIT</p> <!--you can edit-->
-                    <p class="numberbar">72</p> <!--you can edit-->
-                	<div><span class="fourthbar"></span></div> <!--edit the respective css class in style.css -->
-                </div>
-                <!--progresbar-->
-                
-                <!--progresbar-->
-                <div class="progresbar">
-                	<p>LOREM IPSUM DOLOR SIT</p> <!--you can edit-->
-                    <p class="numberbar">93</p> <!--you can edit-->
-                	<div><span class="fivebar"></span></div> <!--edit the respective css class in style.css -->
-                </div>
-                <!--progresbar-->
-            
-            </div>
-            
-        </div>
+        end clip-->
+        <div class="googlePDF">
+			<iframe src="https://docs.google.com/viewer?srcid=0B0XyWILKKfyKM29jeGpHMDJHbTg&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="580px" height="480px"></iframe>
+		</div>
     
     </div>
     <!--end container-->   

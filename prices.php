@@ -23,16 +23,16 @@
         <!--price-->
         <div class="grid_3 expand">
 			<div class="logoprice">
-            	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-prices/price1.png" /> <!--you can edit the image, open the psd file for the vector image format-->
+            	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-prices/single.png" /> <!--you can edit the image, open the psd file for the vector image format-->
             </div>
             <div class="ribbon">
-            	<h2>$ 200,00 - <span>Lorem Ipsum</span></h2> <!--you can edit-->
+            	<h2>$ 200,00 - <span>Lorem Ipsum</span></h2> <!--single-->
             </div>
             <div class="price">
-            	<p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p> <!--you can edit-->
+            	<p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p> 
            		<ul>
-                	<li><p>Lorem ipsum dolor sit amet consec</p></li> <!--you can edit-->
-                    <li><p>Lorem ipsum dolor sit amet consec</p></li> <!--you can edit-->
+                	<li><p>Lorem ipsum dolor sit amet consec</p></li> 
+                    <li><p>Lorem ipsum dolor sit amet consec</p></li> 
                     <li><p class="noborder">Lorem ipsum dolor sit amet consec</p></li> <!--you can edit-->
                 </ul>
                 <p class="btn red"><a href="#">Cupcakes</a></p> <!--you can edit-->
@@ -44,7 +44,7 @@
         <!--price-->
         <div class="grid_3 expand">
 			<div class="logoprice">
-            	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-prices/price2.png" />
+            	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-prices/mini.png" />
             </div>
             <div class="ribbon">
             	<h2>$ 200,00 - <span>Lorem Ipsum</span></h2>
@@ -65,7 +65,7 @@
         <!--price-->
         <div class="grid_3 expand">
 			<div class="logoprice">
-            	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-prices/price3.png" />
+            	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-prices/pops.png" />
             </div>
             <div class="ribbon">
             	<h2>$ 200,00 - <span>Lorem Ipsum</span></h2>
@@ -86,7 +86,7 @@
         <!--price-->
         <div class="grid_3 expand">
 			<div class="logoprice">
-            	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-prices/price4.png" />
+            	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-prices/box.png" />
             </div>
             <div class="ribbon">
             	<h2>$ 200,00 - <span>Lorem Ipsum</span></h2>

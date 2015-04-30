@@ -14,20 +14,17 @@
     
     	<!--big marker-->
         <div id="bigmarker">
-            <h2>Sweet Cake</h2>
+            <h2>Love at First Bite</h2>
             <ul>
-                <li>
-                    <p class="iconhome">102 Madison Ave - New York ( NY )</p> <!--insert your address-->
+				<li>
+                    <h5>Bake. Frost. Eat. Repeat.</h5>
                 </li>
                 <li>
-                    <p class="iconphone">Telephone: (0039) 34916656398</p> <!--insert your telephone number-->
+                    <p class="iconphone">314.329.7116</p> <!--insert your telephone number-->
                 </li>
+
                 <li>
-                    <p class="iconfax">Fax Number: (0039) 3491665637</p> <!--insert your fax number-->
-                </li>
-                <li>
-                    <p class="iconmail noborder">Mail: 
-                    	<a title="Contact Me ♥" href="mailto:yourname@yourdomain.xx">yourname@yourdomain.xx</a> <!--enter you email and remember to change the mailto: links-->
+                    <p class="iconmail noborder"><a title="Contact Me ♥" href="mailto:ashley@loveatfirstbitecupcakery.com">ashley@loveatfirstbitecupcakery</a> <!--enter you email and remember to change the mailto: links-->
                     </p>
                 </li>
             </ul>

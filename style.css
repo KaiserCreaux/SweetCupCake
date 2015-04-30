@@ -97,7 +97,7 @@ a img{
 #navigationmenu{
 	width:100%;
 	float:left;
-	background-image:url(img/patterns/grey-bg.png);
+	background-image:url(img/patterns/gray_wht_stripes.jpg);
 	background-repeat:repeat;
 	color:#7d7d7d;	
 	font-family: 'lobster_1.3regular';	
@@ -199,7 +199,7 @@ nav a:hover{
 #services{
 	width:100%;
 	float:left;
-	background-image:url(img/patterns/grey-bg.png);
+	background-image:url(img/patterns/gray_wht_stripes.jpg);
 	background-repeat:repeat;	
 }
 #services .titlesection{
@@ -222,7 +222,7 @@ nav a:hover{
 #testimonials{
 	width:100%;
 	float:left;
-	background-image:url(img/patterns/pink-bg.png);
+	background-image:url(img/patterns/blue_wht_stripes.jpg);
 	background-repeat:repeat;
 	background-attachment:fixed;
 }
@@ -290,7 +290,7 @@ nav a:hover{
 #sectionportfolio{
 	width:100%;
 	float:left;
-	background-image:url(img/patterns/grey-bg.png);
+	background-image:url(img/patterns/gray_wht_stripes.jpg);
 	background-repeat:repeat;		
 }
 #sectionportfolio .titlesection{
@@ -404,7 +404,7 @@ nav a:hover{
 #sectionprices{
 	width:100%;
 	float:left;
-	background-image:url(img/patterns/green-bg.png);
+	background-image:url(img/patterns/blue_wht_stripes.jpg);
 	background-repeat:repeat;
 	background-attachment:fixed;
 	overflow:hidden;		
@@ -491,7 +491,7 @@ nav a:hover{
 #sectionteam{
 	width:100%;
 	float:left;
-	background-image:url(img/patterns/grey-bg.png);
+	background-image:url(img/patterns/gray_wht_stripes.jpg);
 	background-repeat:repeat;		
 }
 #sectionteam .titlesection{
@@ -515,37 +515,168 @@ nav a:hover{
 	text-align:center;
 	float:left;
 }
-.avatar{
-	width:280px;
-	position:absolute;
-	margin-top:20px;
-	text-align:center;		
-}
-.bordertopteam{
-	width:278px;
-	height:5px;
-	float:left;
-	background-image:url(img/section-team/bordertopteam.jpg);
-	background-repeat:repeat-x;	
-}
-.socialteam{
-	width:280px;
-	height:81px;
-	float:left;
-	margin-bottom:20px;
-	background-image:url(img/section-team/imgbottomteam.png);
-	text-align:center;	
-}
-.socialteam img{
-	margin:0px 1px;	
-}
+
+		
+		#feedback-page{
+			text-align:center;
+		}
+
+		#form-main{
+			width:100%;
+			float:left;
+			padding-top:0px;
+		}
+
+		#form-div {
+			padding-top:35px;
+			padding-bottom:50px;
+			width: 450px;
+			clear:both;
+			float: none;
+			margin-left:auto;
+			margin-right:auto;
+		  margin-top:30px;
+		  -moz-border-radius: 7px;
+		  -webkit-border-radius: 7px;
+		}
+
+		.feedback-input {
+		font-size:17px;
+			background-color: #fff;
+			border-radius: 20px 20px 20px 20px;
+			-moz-border-radius: 20px 20px 20px 20px;
+			-webkit-border-radius: 20px 20px 20px 20px;
+			border: 1px dashed #00457b;
+			padding: 25px;
+			color: #00457b;
+			margin-left: -25px;
+			margin-top: 15px;
+			background-color: #fbfbfb;
+			margin-bottom: 10px;
+			width:100%;
+		}
+
+		.feedback-input:focus{
+			background: #fff;
+			box-shadow: 0;
+			border: 3px solid #00457b;
+			outline: none;
+		}
+
+		.focused{
+			color:#30aed6;
+			border:#30aed6 solid 3px;
+		}
+
+		/* Icons ---------------------------------- */
+		#name{
+			background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+			background-size: 30px 30px;
+			background-position: 11px 8px;
+			background-repeat: no-repeat;
+		}
+
+		#name:focus{
+			background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+			background-size: 30px 30px;
+			background-position: 8px 5px;
+		  background-position: 11px 8px;
+			background-repeat: no-repeat;
+		}
+
+		#email{
+			background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
+			background-size: 30px 30px;
+			background-position: 11px 8px;
+			background-repeat: no-repeat;
+		}
+
+		#email:focus{
+			background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
+			background-size: 30px 30px;
+		  background-position: 11px 8px;
+			background-repeat: no-repeat;
+		}
+
+		#comment{
+			background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg);
+			background-size: 30px 30px;
+			background-position: 11px 8px;
+			background-repeat: no-repeat;
+		}
+
+		textarea {
+			width: 100%;
+			height: 150px;
+			line-height: 150%;
+			resize:vertical;
+		}
+
+		input:hover, textarea:hover,
+		input:focus, textarea:focus {
+			background-color:white;
+		}
+
+		#button-blue{
+			font-family: 'oswaldbold', Arial, Helvetica, sans-serif;
+			float:left;
+			width: 100%;
+			border: #ffc6cc solid 4px;
+			cursor:pointer;
+			background-color: #d6e4f1;
+			color:white;
+			font-size:24px;
+			padding-top:22px;
+			padding-bottom:22px;
+			-webkit-transition: all 0.3s;
+			-moz-transition: all 0.3s;
+			transition: all 0.3s;
+		  margin-top:-4px;
+		  font-weight:700;
+		}
+
+		#button-blue:hover{
+			background-color: rgba(0,0,0,0);
+			color: #ffafb5;
+		}
+			
+		.submit:hover {
+			color: #3498db;
+		}
+			
+		.ease {
+			width: 0px;
+			height: 74px;
+			background-color: #fbfbfb;
+			-webkit-transition: .3s ease;
+			-moz-transition: .3s ease;
+			-o-transition: .3s ease;
+			-ms-transition: .3s ease;
+			transition: .3s ease;
+		}
+
+		.submit:hover .ease{
+		  width:100%;
+		  background-color:white;
+		}
+
+		@media only screen and (max-width: 580px) {
+			#form-div{
+				left: 3%;
+				margin-right: 3%;
+				width: 88%;
+				margin-left: 0;
+				padding-left: 3%;
+				padding-right: 3%;
+			}
+		}
 /*end section team*/
 
 /*start section skills*/
 #sectionskills{
 	width:100%;
 	float:left;
-	background-image:url(img/patterns/pink-bg.png);
+	background-image:url(img/patterns/pink_wht_stripes.jpg);
 	background-repeat:repeat;
 	background-attachment:fixed;		
 }
@@ -559,92 +690,39 @@ nav a:hover{
 #sectionskills .clip{
 	text-align:center;		
 }
-#sectionskills .clip img{
-	margin:42px 20px;	
+
+
+.skilldescription {
+	background-color: #fff;
+	border-radius: 20px 20px 20px 20px;
+	-moz-border-radius: 20px 20px 20px 20px;
+	-webkit-border-radius: 20px 20px 20px 20px;
+	border: 1px dashed #00457b;
+	padding: 25px;
+	
 }
-#sectionskills .clip img:hover{
-	opacity:0.5;	
+.skilldescription p {
+	color: #00457b;
+	margin-top: 15px;
 }
-.skilldescription{
-	margin:20px;
-	float:left;	
+.skilldescription img {
+	margin: auto;
+	margin-left: -27px;
+	max-width: auto;
 }
-.skilldescription #operator{
-	background-image:url(img/section-skills/operator.png);
-    height: 150px;
-    margin-left: 42px;
-    margin-top: 116px;
-    position: absolute;
-    width: 15px;	
+.skilldescription span {
+	font-weight: bold;
+	font-family: oswaldbold;
 }
-.skilldescription p{
-	margin-top:10px;
-	color:#FFF;	
-}
-.skilldescription img{
-	float:left;
-	margin-right:20px;	
-}
-#allprogresbar{
-	float:left;
-	margin:10px 20px;
-	width:440px;	
-}
-.progresbar{
-	float:left;
-	width:100%;
-	margin:10px 0px;
-}
-.progresbar p{
-	color:#fff;	
-	margin-bottom:10px;
-}
-.progresbar div{
-	width:380px;
-	float:left;
-	background-image:url(img/section-skills/bgprogresbar.jpg);
-	background-repeat:repeat;	
-}
-.progresbar div span{
-	height:20px;
-	margin:5px;
-	float:left;
-	background-image:url(img/section-skills/progresbar.jpg);
-	background-repeat:repeat;
-}
-.onebar{
-	width:60%;	
-}
-.secondbar{
-	width:83%;	
-}
-.thirdbar{
-	width:40%;	
-}
-.fourthbar{
-	width:72%;	
-}
-.fivebar{
-	width:93%;	
-}
-.numberbar{
-	float:right;
-	margin:0px !important;
-	padding:4px 8px;
-	color:#7d7d7d !important;
-	font-size:13px;
-	font-family: 'lobster_1.3regular';
-	background-image:url(img/section-skills/bgnumberbar.png);
-	background-position:center;
-	background-repeat:no-repeat;
-}
+
+
 /*end section skills*/
 
 /*start oursocial*/
 #oursocial{
 	width:100%;
 	float:left;	
-	background-image:url(img/patterns/grey-bg.png);
+	background-image:url(img/patterns/gray_wht_stripes.jpg);
 	background-repeat:repeat;
 }
 #oursocial img{

@@ -126,7 +126,7 @@ SWEET.map = function(){
 	
 
 var map;
-var brooklyn = new google.maps.LatLng(40.759277, -73.977064);
+var brooklyn = new google.maps.LatLng(38.6272, -90.1978);
 
 var MY_MAPTYPE_ID = 'custom_style';
 
@@ -136,7 +136,7 @@ function initialize() {
   {
     'featureType': 'landscape.man_made',
     'stylers': [
-      { 'color': '#92bab4' }
+      { 'color': '#95aabb' }
     ]
   },{
     'featureType': 'road.arterial',
@@ -147,7 +147,7 @@ function initialize() {
   },{
     'featureType': 'road.arterial',
     'stylers': [
-      { 'color': '#a2c2c3' }
+      { 'color': '#b7c7d5' }
     ]
   },{
     'featureType': 'road.arterial',
@@ -165,13 +165,13 @@ function initialize() {
     'featureType': 'road.arterial',
     'elementType': 'geometry.stroke',
     'stylers': [
-      { 'color': '#83aaa7' }
+      { 'color': '#668dac' }
     ]
   },{
     'featureType': 'road.local',
     'elementType': 'geometry.stroke',
     'stylers': [
-      { 'color': '#82ada7' }
+      { 'color': '#739ab9' }
     ]
   }
 ];

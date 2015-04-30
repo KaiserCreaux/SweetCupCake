@@ -20,37 +20,38 @@
         <!--end title section-->
         
         <!--start social icons-->
-        <div class="grid_2">
-        	<a href="#">
+		<div class="grid_2"></div> <!--spacer-->
+        <div class="grid_3">
+        	<a href="https://www.facebook.com/LoveAtFirstBiteCupcakery?fref=ts" target="blank">
             	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-oursocial/facebook.png"> <!--you can edit image and insert the link-->
            	</a>
         </div>
-        <div class="grid_2">
-        	<a href="#">
+        <div class="grid_3">
+        	<a href="https://twitter.com/lafbcupcakery" target="blank">
             	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-oursocial/twitter.png"> <!--you can edit image and insert the link-->
           	</a>
         </div>
-        <div class="grid_2">
+       <!-- <div class="grid_2">
         	<a href="#">
-            	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-oursocial/googleplus.png"> <!--you can edit image and insert the link-->
+            	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-oursocial/googleplus.png"> <!--you can edit image and insert the link
             </a>
         </div>
         <div class="grid_2">
         	<a href="#">
-            	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-oursocial/flickr.png"> <!--you can edit image and insert the link-->
+            	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-oursocial/flickr.png"> <!--you can edit image and insert the link
             </a>
-        </div>
-        <div class="grid_2">
-        	<a href="#">
+        </div>-->
+        <div class="grid_3">
+        	<a href="https://instagram.com/lafbcupcakery/" target="blank">
             	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-oursocial/instagram.png"> <!--you can edit image and insert the link-->
             </a>
         </div>
-        <div class="grid_2">
+        <!-- <div class="grid_2">
         	<a href="#">
-            	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-oursocial/vimeo.png"> <!--you can edit image and insert the link-->
+            	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-oursocial/vimeo.png"> <!--you can edit image and insert the link
             </a>
         </div>
-        <!--end social icons-->
+       end social icons-->
     
     </div>
     <!--end container-->   

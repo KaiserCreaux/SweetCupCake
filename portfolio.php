@@ -15,36 +15,23 @@
     
     	<!--start titlesection-->
         <div class="grid_12 titlesection">
-        	<h1>My Works</h1>
+        	<h1>Our Cupcakes</h1>
         </div>
         <!--end title section-->
         
-        <!--start options-->
-        <div class="grid_12">
-            <div id="options" class="clear">
-                <ul id="filters" class="option-set clearfix" data-option-key="filter">
-                    <li class="orange"><a href="#filter" data-option-value="*" class="selected">Show all</a></li>
-                    <li class="blue"><a href="#filter" data-option-value=".blue">Cupkakes</a></li>
-                    <li class="yellow"><a href="#filter" data-option-value=".yellow">Cake Design</a></li>
-                    <li class="navi"><a href="#filter" data-option-value=".green">Muffins</a></li>
-                    <li class="green"><a href="#filter" data-option-value=".yellow">Dounuts</a></li>
-                </ul>
-            </div>
-        </div>
-        <!--end options-->
-              
+             
         <!--start images-->
         <div id="containerisotope" class="clear">          
             
             <!--element-->
             <div class="element blue" data-category="blue">
-            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks1.jpg">
-                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks1.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/margarita.jpg">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/margaritaPreview.png" />
                 </a>
                 <div class="worksarrow">
                 	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
-                <h2>Lorem Ipsum Dolor Sit</h2>
+                <h2>Margarita</h2>
                 <p>Lorem ipsum dolor</p>
                 <div class="worksbottom"></div>
             </div>
@@ -52,13 +39,13 @@
             
             <!--element-->
             <div class="element blue" data-category="blue">
-            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks2.jpg">
-                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks2.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/milk.jpg">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/milkPreview.png" />
                 </a>
                 <div class="worksarrow">
                 	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
-                <h2>Lorem Ipsum Dolor Sit</h2>
+                <h2>Pass the Milk, Please!</h2>
                 <p>Lorem ipsum dolor</p>
                 <div class="worksbottom"></div>
             </div>
@@ -66,13 +53,13 @@
             
             <!--element-->
             <div class="element yellow" data-category="yellow">
-            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks3.jpg">
-                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks3.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/turtle.jpg">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/turtlePreview.png" />
                	</a>
                 <div class="worksarrow">
                 	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
-                <h2>Lorem Ipsum Dolor Sit</h2>
+                <h2>Turtle</h2>
                 <p>Lorem ipsum dolor</p>
                 <div class="worksbottom"></div>
             </div>
@@ -80,13 +67,13 @@
             
             <!--element-->
             <div class="element yellow" data-category="yellow">
-            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks4.jpg">
-                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks4.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/straw.jpg">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/strawPreview.png" />
                	</a>
                 <div class="worksarrow">
                 	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
-                <h2>Lorem Ipsum Dolor Sit</h2>
+                <h2>Strawberry White Chocolate</h2>
                 <p>Lorem ipsum dolor</p>
                 <div class="worksbottom"></div>
             </div>
@@ -94,13 +81,13 @@
             
             <!--element-->
             <div class="element green" data-category="green">
-            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks5.jpg">
-                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks5.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/dulche.jpg">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/dulchePreview.png" />
                 </a>
                 <div class="worksarrow">
                 	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
-                <h2>Lorem Ipsum Dolor Sit</h2>
+                <h2>Dulche de Leche</h2>
                 <p>Lorem ipsum dolor</p>
                 <div class="worksbottom"></div>
             </div>
@@ -108,13 +95,13 @@
             
             <!--element-->
             <div class="element green" data-category="green">
-            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks6.jpg">
-                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks6.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/churro.jpg">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/churroPreview.png" />
                 </a>
                 <div class="worksarrow">
                 	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
-                <h2>Lorem Ipsum Dolor Sit</h2>
+                <h2>Churro Cupcake</h2>
                 <p>Lorem ipsum dolor</p>
                 <div class="worksbottom"></div>
             </div>
@@ -122,13 +109,13 @@
             
             <!--element-->
             <div class="element blue" data-category="blue">
-            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks7.jpg">
-                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks7.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/declare.jpg">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/declarePreview.png" />
                 </a>
                 <div class="worksarrow">
                 	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
-                <h2>Lorem Ipsum Dolor Sit</h2>
+                <h2>I do, Declare!</h2>
                 <p>Lorem ipsum dolor</p>
                 <div class="worksbottom"></div>
             </div>
@@ -136,13 +123,13 @@
             
             <!--element-->
             <div class="element yellow" data-category="yellow">
-            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/imgworks8.jpg">
-                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/imgworks8.jpg" />
+            	<a data-rel="prettyPhoto[]" href="wp-content/themes/SweetCupCake/img/section-works/cookies.png">
+                	<img alt="" class="imgwork" src="wp-content/themes/SweetCupCake/img/section-works/cookiesPreview.png" />
                 </a>
                 <div class="worksarrow">
                 	<img alt="" src="wp-content/themes/SweetCupCake/img/section-works/arrow.png" />
                 </div>
-                <h2>Lorem Ipsum Dolor Sit</h2>
+                <h2>Cookies and Cream</h2>
                 <p>Lorem ipsum dolor</p>
                 <div class="worksbottom"></div>
             </div>
