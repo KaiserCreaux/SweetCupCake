@@ -203,9 +203,13 @@ nav a:hover{
 	background-repeat:repeat;	
 }
 #services .titlesection{
-	text-shadow: 3px 3px 0 rgba(223, 223, 223, 0.9);
+	text-shadow: 3px 3px 0 #d6e4f1;
 	background-image:url(img/divider/services.png);
 }
+#services .titlesection h1{
+	color: #00457b;
+}
+
 #services p{
 	margin:10px 20px;
 }
@@ -226,13 +230,7 @@ nav a:hover{
 	background-repeat:repeat;
 	background-attachment:fixed;
 }
-#darkfilter{
-	width:100%;
-	float:left;
-	background-image:url(img/section-testimonials/darkfilter.png);
-	background-repeat:repeat-y;
-	background-position:center;
-}
+
 #testimonials .container div{
 	margin:0px 10px;
 }
@@ -242,6 +240,7 @@ nav a:hover{
 #testimonials h2{
 	color:#FFF;
 	margin:10px 20px;
+	font-size: 55px;
 	text-shadow: 2px 2px 0 rgba(190, 115, 135, 0.9);
 }
 #testimonials p{
@@ -294,9 +293,13 @@ nav a:hover{
 	background-repeat:repeat;		
 }
 #sectionportfolio .titlesection{
-	text-shadow: 3px 3px 0 rgba(223, 223, 223, 0.9);
+	text-shadow: 3px 3px 0 #d6e4f1;
 	background-image:url(img/divider/portfolio.png);
 }
+#sectionportfolio .titlesection h1{
+	color: #00457b;
+}
+
 #options{
 	margin:10px 0px;
 	padding:0px;
@@ -410,7 +413,7 @@ nav a:hover{
 	overflow:hidden;		
 }
 #sectionprices .titlesection{
-	text-shadow: 3px 3px 0 rgba(111, 176, 167, 0.9);
+	text-shadow: 3px 3px 0 #f8aea7;
 	background-image:url(img/divider/prices.png);
 }
 #sectionprices .titlesection h1{
@@ -487,17 +490,22 @@ nav a:hover{
 }
 /*end section prices*/
 
-/*start section team*/
-#sectionteam{
+/*start section contact*/
+#sectioncontact{
 	width:100%;
 	float:left;
 	background-image:url(img/patterns/gray_wht_stripes.jpg);
 	background-repeat:repeat;		
 }
-#sectionteam .titlesection{
-	text-shadow: 3px 3px 0 rgba(223, 223, 223, 0.9);
+#sectioncontact .titlesection{
+	text-shadow: 3px 3px 0 #feeeef;
 	background-image:url(img/divider/team.png);
+
 }
+#sectioncontact .titlesection h1{
+	color: #f8aea7;	
+}
+
 .team{
 	background-color:#f5f5f5;
 	border-left:1px solid #e8e8e8;
@@ -555,7 +563,17 @@ nav a:hover{
 			margin-bottom: 10px;
 			width:100%;
 		}
-
+.wpcf7-form-control
+{
+		width:100%;
+		border-radius: 20px 20px 20px 20px;
+		-moz-border-radius: 20px 20px 20px 20px;
+		-webkit-border-radius: 20px 20px 20px 20px;
+		border: 3px solid #00457b;
+		padding: 25px;
+		color: #00457b;
+		}
+		
 		.feedback-input:focus{
 			background: #fff;
 			box-shadow: 0;
@@ -617,28 +635,7 @@ nav a:hover{
 			background-color:white;
 		}
 
-		#button-blue{
-			font-family: 'oswaldbold', Arial, Helvetica, sans-serif;
-			float:left;
-			width: 100%;
-			border: #ffc6cc solid 4px;
-			cursor:pointer;
-			background-color: #d6e4f1;
-			color:white;
-			font-size:24px;
-			padding-top:22px;
-			padding-bottom:22px;
-			-webkit-transition: all 0.3s;
-			-moz-transition: all 0.3s;
-			transition: all 0.3s;
-		  margin-top:-4px;
-		  font-weight:700;
-		}
 
-		#button-blue:hover{
-			background-color: rgba(0,0,0,0);
-			color: #ffafb5;
-		}
 			
 		.submit:hover {
 			color: #3498db;
@@ -670,24 +667,24 @@ nav a:hover{
 				padding-right: 3%;
 			}
 		}
-/*end section team*/
+/*end section contact*/
 
-/*start section skills*/
-#sectionskills{
+/*start section menu*/
+#sectionmenu{
 	width:100%;
 	float:left;
 	background-image:url(img/patterns/pink_wht_stripes.jpg);
 	background-repeat:repeat;
 	background-attachment:fixed;		
 }
-#sectionskills .titlesection{
-	text-shadow: 3px 3px 0 rgba(190, 115, 135, 0.9);
+#sectionmenu .titlesection{
+	text-shadow: 3px 3px 0 #00457b;
 	background-image:url(img/divider/skills.png);
 }
-#sectionskills .titlesection h1{
+#sectionmenu .titlesection h1{
 	color:#FFF;
 }
-#sectionskills .clip{
+#sectionmenu .clip{
 	text-align:center;		
 }
 
@@ -714,15 +711,36 @@ nav a:hover{
 	font-weight: bold;
 	font-family: oswaldbold;
 }
+		#wpcf7-submit{
+			font-family: 'oswaldbold', Arial, Helvetica, sans-serif;
+			float:left;
+			width: 100%;
+			border: #ffc6cc solid 4px;
+			cursor:pointer;
+			background-color: #d6e4f1;
+			color:white;
+			font-size:24px;
+			padding-top:22px;
+			padding-bottom:22px;
+			-webkit-transition: all 0.3s;
+			-moz-transition: all 0.3s;
+			transition: all 0.3s;
+		  margin-top:-4px;
+		  font-weight:700;
+		}
 
+		#wpcf7-submit:hover{
+			background-color: rgba(0,0,0,0);
+			color: #ffafb5;
+		}
 
-/*end section skills*/
+/*end section menu*/
 
 /*start oursocial*/
 #oursocial{
 	width:100%;
 	float:left;	
-	background-image:url(img/patterns/gray_wht_stripes.jpg);
+	background-image:url(img/patterns/pink_wht_stripes.jpg);
 	background-repeat:repeat;
 }
 #oursocial img{
@@ -735,12 +753,12 @@ nav a:hover{
 /*end oursocial*/
 
 
-/*start contacts*/
-#contacts{
+/*start map*/
+#map{
 	width:100%;
 	float:left;	
 }
-#contacts #map-canvas{
+#map #map-canvas{
 	width:100%;
 	height:790px;
 	float:left;
@@ -861,7 +879,7 @@ nav a:hover{
 	margin:0px;
 	padding:0px;
 }
-/*end contacts*/
+/*end map*/
 
 
 /*start class*/
@@ -875,7 +893,7 @@ nav a:hover{
 	text-align:center;	
 }
 
-#oursocial .titlesection, #services .titlesection, #sectionportfolio .titlesection, #sectionprices .titlesection, #sectionteam .titlesection, #sectionskills .titlesection{
+#oursocial .titlesection, #services .titlesection, #sectionportfolio .titlesection, #sectionprices .titlesection, #sectioncontact .titlesection, #sectionmenu .titlesection{
 	background-repeat:no-repeat;
 	background-position:center bottom;
 	margin-bottom:20px;

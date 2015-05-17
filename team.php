@@ -5,7 +5,7 @@
     <div class="anchors">
     	<div class="contanchors">
             <a href="#sectionprices"><img class="anchortop" alt="" src="wp-content/themes/SweetCupCake/img/anchors/topteam.png" /></a>
-            <a href="#sectionskills"><img class="anchorbottom" alt="" src="wp-content/themes/SweetCupCake/img/anchors/bottomteam.png" /></a>
+            <a href="#sectionmenu"><img class="anchorbottom" alt="" src="wp-content/themes/SweetCupCake/img/anchors/bottomteam.png" /></a>
         </div>
     </div>
     <!--end anchors-->
@@ -22,7 +22,7 @@
 		<div class="grid_6">
 			<div id="form-main">
 			  <div id="form-div">
-				<form class="form" id="form1">
+				<form class="form" id="form1"><form method="post" name="myemailform" action="require_once form-to-email.php">
 				  
 				  <p class="fNameForm">
 					<input name="fName" type="text" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="First Name" id="fNameForm" />
@@ -42,7 +42,7 @@
 				  
 				  
 				  <div class="submit">
-					<input type="submit" value="SEND" id="button-blue"/>
+					<input type="submit" value="Send Form" id="button-blue"/>
 					<div class="ease"></div>
 				  </div>
 				</form>

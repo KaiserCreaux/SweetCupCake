@@ -25,7 +25,7 @@
     <!--[if lt IE 9]>  
     <script src="js/html5.js"></script>  
     <![endif]-->  
-    
+	
     <!--FAVICONS-->
     <link rel="shortcut icon" href="/wp-content/themes/SweetCupCake/img/favicon/favicon.ico">
     <link rel="apple-touch-icon" href="/wp-content/themes/SweetCupCake/img/favicon/apple-touch-icon.png">

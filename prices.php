@@ -5,7 +5,7 @@
     <div class="anchors">
     	<div class="contanchors">
             <a href="#sectionportfolio"><img class="anchortop" alt="" src="wp-content/themes/SweetCupCake/img/anchors/topprices.png" /></a>
-            <a href="#sectionteam"><img class="anchorbottom" alt="" src="wp-content/themes/SweetCupCake/img/anchors/bottomprices.png" /></a>
+            <a href="#sectionmenu"><img class="anchorbottom" alt="" src="wp-content/themes/SweetCupCake/img/anchors/bottomprices.png" /></a>
         </div>
     </div>
     <!--end anchors-->
@@ -26,14 +26,13 @@
             	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-prices/single.png" /> <!--you can edit the image, open the psd file for the vector image format-->
             </div>
             <div class="ribbon">
-            	<h2>$ 200,00 - <span>Lorem Ipsum</span></h2> <!--single-->
+            	<h2><span>Everyday Loves</span></h2> <!--single-->
             </div>
             <div class="price">
-            	<p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p> 
+            	<p>Starting at 18.00 per dozen</p> 
            		<ul>
-                	<li><p>Lorem ipsum dolor sit amet consec</p></li> 
-                    <li><p>Lorem ipsum dolor sit amet consec</p></li> 
-                    <li><p class="noborder">Lorem ipsum dolor sit amet consec</p></li> <!--you can edit-->
+                	<li><p>Fondant toppers are $2.00 per cupcake</p></li> 
+                    <li><p class="noborder">Custom flavors & toppers welcome</p></li> <!--you can edit-->
                 </ul>
                 <p class="btn red"><a href="#">Cupcakes</a></p> <!--you can edit-->
             </div>
@@ -47,16 +46,15 @@
             	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-prices/mini.png" />
             </div>
             <div class="ribbon">
-            	<h2>$ 200,00 - <span>Lorem Ipsum</span></h2>
+            	<h2><span>Mini Loves</span></h2>
             </div>
             <div class="price">
-            	<p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+            	<p>Starting at $18.00 per two dozen mini size cupcakes</p>
            		<ul>
-                	<li><p>Lorem ipsum dolor sit amet consec</p></li>
-                    <li><p>Lorem ipsum dolor sit amet consec</p></li>
-                    <li><p class="noborder">Lorem ipsum dolor sit amet consec</p></li>
+                	<li><p>Fondant toppers are $1.00 per cupcake</p></li>
+                    <li><p class="noborder">Custom flavors & toppers welcome</p></li>
                 </ul>
-                <p class="btn blue"><a href="#">Ice cream</a></p>
+                <p class="btn blue"><a href="#">Mini Cupcakes</a></p>
             </div>
             <div class="triangle"></div>
         </div>
@@ -68,16 +66,14 @@
             	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-prices/pops.png" />
             </div>
             <div class="ribbon">
-            	<h2>$ 200,00 - <span>Lorem Ipsum</span></h2>
+            	<h2><span>Love Pops</span></h2>
             </div>
             <div class="price">
-            	<p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+            	<p>$3 per Love Pop</p>
            		<ul>
-                	<li><p>Lorem ipsum dolor sit amet consec</p></li>
-                    <li><p>Lorem ipsum dolor sit amet consec</p></li>
-                    <li><p class="noborder">Lorem ipsum dolor sit amet consec</p></li>
+                    <li><p class="noborder">Custom flavors & toppers welcome</p></li>
                 </ul>
-                <p class="btn yellow"><a href="#">Cookies</a></p>
+                <p class="btn yellow"><a href="#">Pushpops</a></p>
             </div>
             <div class="triangle"></div>
         </div>
@@ -89,16 +85,15 @@
             	<img class="rotate" alt="" src="wp-content/themes/SweetCupCake/img/section-prices/box.png" />
             </div>
             <div class="ribbon">
-            	<h2>$ 200,00 - <span>Lorem Ipsum</span></h2>
+            	<h2><span>Love Packs</span></h2>
             </div>
             <div class="price">
-            	<p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+            	<p>$12.00 per Love Pack</p>
            		<ul>
-                	<li><p>Lorem ipsum dolor sit amet consec</p></li>
-                    <li><p>Lorem ipsum dolor sit amet consec</p></li>
-                    <li><p class="noborder">Lorem ipsum dolor sit amet consec</p></li>
+                	<li><p>Seasonal samplers change monthly</p></li>
+                    <li><p class="noborder">Check site for updates about our monthly Love Pack samplers</p></li>
                 </ul>
-                <p class="btn green"><a href="#">Croissant</a></p>
+                <p class="btn green"><a href="#">Sampler</a></p>
             </div>
             <div class="triangle"></div>
         </div>
